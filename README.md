@@ -1,6 +1,7 @@
 ### Hi there 👋 I am Sofia Kung
 
 I am a data analyst based in Singapore. I have worked for Lazada, PwC and Atome (BNPL).
+
 Now I am taking a break to work towards becoming a front-end developer. 
 
 - 🔭 I’m currently working on an e-book highlight organiser web app 
