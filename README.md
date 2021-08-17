@@ -1,4 +1,4 @@
-### Hi there 👋 I am Sofia Kung
+## Hi there 👋 I am Sofia Kung ## 
 
 I am a data analyst based in Singapore. I have worked for Lazada, PwC and Atome (BNPL).
 
