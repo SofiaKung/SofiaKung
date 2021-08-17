@@ -7,7 +7,7 @@ Now I am taking a break to work towards becoming a front-end developer.
 - 🔭 I’m currently working on an e-book highlight organiser web app 
 - 🌱 I’m currently learning Next.js and React 
 - 📫 I'm open to both web development and data analyst roles, reach me on <a href="https://www.linkedin.com/in/sofiakung/" target="_blank">LinkedIn</a>
-- ⚡ Fun fact: I love reading non-fiction books and hunting for good food around Singapore
+- ⚡ Fun fact: I love yoga, reading non-fiction books and hunting for good food around Singapore
 
 
 
