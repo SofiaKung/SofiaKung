@@ -2,7 +2,7 @@
 
 I am a data analyst based in Singapore. I have worked for Lazada, PwC and Atome (BNPL).
 
-Now I am taking a break to work towards becoming a front-end developer. 
+I am now taking a quarter gap-year to self-learn web development, working towards being able to build a web app for my own app ideas.
 
 - 🔭 I’m currently working on an e-book highlight organiser web app 
 - 🌱 I’m currently learning Next.js and React 
