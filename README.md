@@ -4,7 +4,6 @@ I am now working towards being able to build a web app for my own app ideas.
 
 - 🔭 I’m currently working on an e-book highlight organiser web app 
 - 🌱 I’m currently learning Next.js and React 
-- 📫 I'm open to both web development and data analyst roles, reach me on <a href="https://www.linkedin.com/in/sofiakung/" target="_blank">LinkedIn</a>
 - ⚡ Fun fact: I love yoga, reading non-fiction books and hunting for good food around Singapore
 
 
