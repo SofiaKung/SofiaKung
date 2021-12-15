@@ -32,11 +32,6 @@ Programming Skills<br />
 ![SQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
 ![SparkSQL](https://img.shields.io/badge/-SparkSQL-05122A?style=flat&logo=ApacheSpark)
 
-### Connect with me: ###
-<p>
-
-<a href="https://github.com/sofiakung" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/sofiakung/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
 
 
 
