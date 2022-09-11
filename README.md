@@ -1,4 +1,4 @@
-## Hi there 👋 I am Sofia Kung ## 
+## Hello there 👋 I am Sofia Kung ## 
 
 ### I am a Senior Data Analyst based in SG 🇸🇬
 I love uncovering insights through data and building functional & aesthetic dashboards for reporting/EDA purposes ❤️ Talk data to me 😉
