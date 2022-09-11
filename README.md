@@ -3,7 +3,7 @@
 ### I am a Senior Aata Analyst based in SG 🇸🇬
 I love uncovering insights through data and building functional & aesthetic dashboards for reporting/EDA purposes ❤️ Talk data to me 😉
 
-⚡ Fun fact about me, I am originally from Taipei, Taiwan. During my free time I lift weights, read non-fiction books and hunt for good restuarants/bar/cafes around Singapore (ask me for recommendations!)
+⚡ Fun fact about me, I am originally from Taipei, Taiwan. During my free time, I lift weights, read non-fiction books and hunt for good restaurants/bars/cafes around Singapore (ask me for recommendations!)
 
 
 
