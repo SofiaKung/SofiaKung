@@ -1,6 +1,7 @@
 ## Hi there 👋 I am Sofia Kung ## 
 
-I am a data analyst based in SG. 
+### I am a data analyst based in SG. 
+- I love creating functional and aesthetic dashboards for reporting and exploratory data analysis ❤️ 
 - ⚡ Fun fact: I love yoga, reading non-fiction books and hunting for good food around Singapore
 
 
@@ -24,6 +25,7 @@ Tools <br />
 <a href="https://www.qwiklabs.com/public_profiles/da751f67-a1a7-4be2-b47b-a223e14ed866" target="_blank"><img alt="GCP" src="https://img.shields.io/badge/-GCP-05122A?style=flat&logo=GoogleCloud" /></a>
 
 Front-End Technical Skills<br />
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
