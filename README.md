@@ -2,7 +2,7 @@
 
 ### I am a data analyst based in SG. 
 - I love creating functional and aesthetic dashboards for reporting and exploratory data analysis ❤️ 
-- ⚡ Fun fact: I love yoga, reading non-fiction books and hunting for good food around Singapore
+- ⚡ Fun fact about me, during my free time I lift weights, read non-fiction books and hunt for good restuarants/bar/cafes around Singapore (ask me for recommendations!)
 
 
 
