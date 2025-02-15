@@ -1,9 +1,7 @@
 ## Hello there 👋 I am Sofia Kung ## 
 
 ### I am a Senior Data Analyst based in SG 🇸🇬
-I love uncovering insights through data and building functional & aesthetic dashboards for reporting/EDA purposes ❤️ Talk data to me 😉
 
-⚡ Fun fact about me, I am originally from Taipei, Taiwan. During my free time, I lift weights, read non-fiction books and hunt for good restaurants/bars/cafes around Singapore (ask me for recommendations!)
 
 
 
