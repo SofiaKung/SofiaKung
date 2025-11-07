@@ -2,7 +2,7 @@
 
 ### I am a Senior Data Analyst based in SG 🇸🇬
 
-
+This GitHub profile is undergoing reconstruction!
 
 
 ### 🛠 &nbsp;Tech Stack ###
