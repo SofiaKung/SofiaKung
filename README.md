@@ -1,5 +1,6 @@
 ## Hello there 👋 I am Sofia Kung ## 
 
+
 ### I am a senior data analyst/AI builder based in SG 🇸🇬
 
 This GitHub profile is undergoing reconstruction!
