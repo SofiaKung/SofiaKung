@@ -10,7 +10,7 @@ This GitHub profile is undergoing reconstruction!
 - www.lumina-tarot.com
 - www.bonsai-mind.com
 
-### 🛠 &nbsp;Tech Stack ###
+### 🛠 &nbsp;Tech Stack###
 
 
 
