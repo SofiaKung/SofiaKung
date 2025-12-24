@@ -4,7 +4,7 @@
 
 I build AI workflows that actually work in production — not just demos. Currently running [Butterflow](https://butterflow.dev), helping businesses automate smarter.
 
----
+
 
 ## What I Do
 
@@ -12,7 +12,7 @@ I build AI workflows that actually work in production — not just demos. Curren
 📊 **Data & Risk** — Analytics, fraud detection, making sense of messy data  
 ✨ **Vibe Coding** — Building products with AI-assisted intuition  
 
----
+
 
 ## Projects
 
@@ -21,7 +21,7 @@ I build AI workflows that actually work in production — not just demos. Curren
 | [Lumina Tarot](https://www.lumina-tarot.com) | AI-powered tarot readings with voice narration |
 | [Bonsai Mind](https://www.bonsai-mind.com) | Knowledge graph for book highlights & learnings |
 
----
+
 
 ## Tech Stack
 
@@ -51,7 +51,7 @@ I build AI workflows that actually work in production — not just demos. Curren
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare)
 
----
+
 
 ## Currently
 
@@ -59,7 +59,7 @@ I build AI workflows that actually work in production — not just demos. Curren
 - 📚 Learning ML fundamentals & system design
 - ✍️ Writing about what I learn → [TIL](/til) (coming soon)
 
----
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sofiakung/">LinkedIn</a> •
