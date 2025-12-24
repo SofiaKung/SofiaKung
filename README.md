@@ -32,9 +32,9 @@ I build AI workflows that actually work in production — not just demos. Curren
 
 **AI & Automation**  
 ![n8n](https://img.shields.io/badge/-n8n-05122A?style=flat&logo=n8n)
-![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)
-![Claude](https://img.shields.io/badge/-Claude-05122A?style=flat&logo=anthropic)
 ![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=chainlink)
+![RAG](https://img.shields.io/badge/-RAG-05122A?style=flat)
+![Vector DBs](https://img.shields.io/badge/-Vector_DBs-05122A?style=flat)
 
 **Data & Analytics**  
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau)
