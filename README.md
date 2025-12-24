@@ -55,7 +55,7 @@ I build AI automation systems with risk controls and analytics. Currently runnin
 
 - 🏗️ Building AI agents for workflow automation
 - 📚 Upgrading my ML knowledge & system design
-- ✍️ Writing about what I learn → [TIL](/til) (coming soon)
+- ✍️ Writing about what I learn → [TIL](/TIL) (coming soon)
 
 
 
