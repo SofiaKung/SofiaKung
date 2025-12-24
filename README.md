@@ -61,5 +61,5 @@ I build AI automation systems with risk controls and analytics. Currently runnin
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sofiakung/">LinkedIn</a> •
-  <a href="https://butterflow.dev">Butterflow</a>
+  <a href="https://butterflow.co">Butterflow</a>
 </p>
