@@ -5,7 +5,7 @@
 
 I build AI automation systems with risk controls and analytics. Currently running [Butterflow](https://butterflow.dev), helping businesses automate smarter.
 
----
+
 
 ## What I Do
 
@@ -13,7 +13,7 @@ I build AI automation systems with risk controls and analytics. Currently runnin
 📊 **Data & Risk** — Analytics, fraud detection, making sense of messy data  
 ✨ **Vibe Coding** — Building products with AI-assisted intuition  
 
----
+
 
 ## Projects
 
@@ -21,7 +21,7 @@ I build AI automation systems with risk controls and analytics. Currently runnin
 - [Bonsai Mind](https://www.bonsai-mind.com) — Knowledge graph for book highlights & learnings
 - [JollyCards](https://jollycards.site) — AI Christmas card generator
 
----
+
 
 ## Tech Stack
 
@@ -49,15 +49,15 @@ I build AI automation systems with risk controls and analytics. Currently runnin
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare)
 
----
+
 
 ## Currently
 
 - 🏗️ Building AI agents for workflow automation
-- 📚 Learning ML fundamentals & system design
+- 📚 Upgrading my ML knowledge & system design
 - ✍️ Writing about what I learn → [TIL](/til) (coming soon)
 
----
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sofiakung/">LinkedIn</a> •
