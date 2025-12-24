@@ -55,11 +55,11 @@ I build AI automation systems with risk controls and analytics. Currently runnin
 
 - 🏗️ Building AI agents for workflow automation
 - 📚 Upgrading my ML knowledge & system design
-- ✍️ Writing about what I learn → [TIL](/TIL) (coming soon)
+- ✍️ Documenting about what I learn → [TIL](https://github.com/SofiaKung/TIL)
 
 
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/sofiakung/">LinkedIn</a> •
   <a href="https://butterflow.dev">Butterflow</a>
 </p>
