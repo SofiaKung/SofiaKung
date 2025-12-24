@@ -3,7 +3,7 @@
 
 **AI Automation Consultant & Builder** based in Singapore 🇸🇬
 
-I build AI automation systems with risk controls and analytics. Currently running [Butterflow](https://butterflow.dev), helping businesses automate smarter.
+I build AI automation systems with risk controls and analytics. Currently running [Butterflow](https://butterflow.co), helping businesses automate smarter.
 
 
 
